@@ -1,4 +1,4 @@
-###欢迎来信交流7harryprince@gmail.com ##欢迎直接复制代码
+###欢迎来信交流7harryprince@gmail.com ##求反馈..
 ##背景知识：线性代数 EXCEL 
 ##知识结构：A.向量B.矩阵C.数据框D.各种操作
 ##1.从向量到矩阵和数据框

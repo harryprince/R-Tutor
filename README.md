@@ -9,15 +9,15 @@ R-Tutor
 
 ## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？
 
-1.[谢溢辉](http://yihui.name/cn/)在用
+1. [谢溢辉](http://yihui.name/cn/)在用
 2. 搞金融的研究员在用；R 可以画k线图，做实时交易；（壕）
 3. 做演讲的嘉宾在用；R 可以快速地做出幻灯片，代替PowerPoint；
 4. 发论文的老师在用；R 可以写出所有数学符号，代替MathType，论文必备；
 5. 搞生物的同学在用；R 可以快速地进行生物统计分析，画出优雅的图形；
 6. 搞物流的同学在用；R 可以快速地进行运筹学计算，可视化最短路线；
 7. 做会计的同学在用；R 可以快速制作3张标，分析各种财务问题；
-8.[搞电商的同学在用](http://www.bjt.name/2014/09/mail-from-audience/)；R 可以快速地进行商品推荐、商品搜索；（土豪）
-9.[经济学家也在用](http://www.loyhome.com/英文写作笔记（二）：避免废话太多/)
+8. [搞电商的同学在用](http://www.bjt.name/2014/09/mail-from-audience/)；R 可以快速地进行商品推荐、商品搜索；（土豪）
+9. [经济学家也在用](http://www.loyhome.com/英文写作笔记（二）：避免废话太多/)
 * R 可以代替MatLab（yao）、Excel（qian）等数学计算工具
 * [R](http://mirror.bjtu.edu.cn/cran/)只有30MB 而且免费！！！还不赶快下载！
 * 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了；

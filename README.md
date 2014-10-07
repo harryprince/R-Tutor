@@ -59,22 +59,20 @@ R-Tutor
  概率论和数理统计
 * [Youtube 台湾统计老师](https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ) //需要梯子
 
-### 3.和计算机基础有关
-
-数据结构 、编程基础、操作系统 
-
-### 4.R中操作
+### 3.R中操作
 
 * [R中矩阵操作](https://github.com/harryprince/R-Tutor/tree/master/R%26Matrix)
 
 * [R包] //R包就像手机上的App一样
 
-### 5.和你的专业有关
+### 4.和你的专业有关
 
 Example：运筹学与最优化理论 
 
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
 
+### 5.和计算机基础有关
 
+数据结构 、编程基础、操作系统
 
 

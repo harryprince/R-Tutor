@@ -1,4 +1,5 @@
-R-Tutor
+#[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
+学习R的速度取决于你的热情
 ![R](https://pbs.twimg.com/profile_images/508630159461580801/SPEYeilx_400x400.jpeg)
 =======
 

@@ -50,23 +50,23 @@ R-Tutor
 
 **4步学R**   //欢迎补充
 
-   1.和基础数学有关
+* 1.和基础数学有关
 
 矩阵论和线性代数
 [徐老师 优酷视频]（http://i.youku.com/u/UMTIwMTA4MDczNg==）//学习高数和线性代数
 [MIT 网易公开课] （http://v.163.com/special/opencourse/daishu.html）
 [Khan 网易公开课] （http://v.163.com/special/Khan/linearalgebra.html）
 
-   2.和应用数学有关
+* 2.和应用数学有关
 
 概率论和数理统计
 [Youtube 台湾统计老师] （https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ）//需要梯子
 
-   3.和计算机基础有关
+* 3.和计算机基础有关
 
 数据结构 、编程基础、操作系统 
 
-   4.和你的专业有关
+* 4.和你的专业有关
 
 Example：运筹学与最优化理论 
 

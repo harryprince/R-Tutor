@@ -12,12 +12,12 @@ R-Tutor
 
 1. R 只有30M的大小，而且免费下载
 2. R可以写作业，有世界顶级的老师辅导
-3. 谢溢辉等人在用
-4. 计算器；R 可以代替MatLab、Excel等数学计算工具
+3. [谢溢辉](https://github.com/yihui/yihui.github.com)等人在用
+4. 计算器；R 可以代替MatLab（yao）、Excel（qian）等数学计算工具
 5. 制作图标的研究员；R 可以画出美丽的图画
 6. 对于做演讲的嘉宾；R 可以快速做出幻灯片代替PowerPoint
 7. 对于发论文的老师；R 可以快速完成Html网页和LaTex文学编程语言，论文必备；
-8. 全面支持中文；R 支持用中文编程，不会英文的同学有福了
+8. 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了
 9. R中极客；R 可以调用Python、Matlab、Excel、C、Java等等 灵活性强
 
 ## 二.普通青年怎么学R？
@@ -27,28 +27,19 @@ R-Tutor
 ### 1.最普遍的需求是写（chao）作业，做展示
 以前都用office（daoban）
 
-而谢溢辉老师发明了写作神器Knitr，教你如何优雅地写作业
+而谢溢辉老师发明了写作神器[Knitr](http://yihui.name/knitr/)，教你如何优雅地写作业
 ![knitr](http://yihui.name/knitr/images/knit-logo.png)
 
-* [谢溢辉老师的介绍](http://yihui.name/knitr/) //Knitr包 
-* [老师写的中文介绍]( http://cos.name/tag/knitr/)
-* [老师的github主页](https://github.com/yihui/yihui.github.com)
+[中文介绍]( http://cos.name/tag/knitr/)
 
 ```
 膜拜感激谢溢辉老师
 ```
 
+### 2.学R好去处：  [统计之都](http://cos.name)
 
-### 2.学R好去处：  统计之都 
 
-> 统计之都:http://cos.name
-    
-### 3.学R必备神器：RStudio  
-神器有多神 用过就知道
-
-> RStudio下载:http://www.rstudio.com/products/rstudio/download/
-
-### 4.R推荐中文书籍：R语言实战；R语言经典实例
+### 3.R推荐中文书籍：R语言实战；R语言经典实例
 
 ## 三.科研人员文艺青年怎么学R？
 

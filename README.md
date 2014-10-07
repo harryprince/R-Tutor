@@ -8,7 +8,7 @@ R-Tutor
 
 * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
-## 一.为什么用R？
+## 一.为什么用[R](http://mirror.bjtu.edu.cn/cran/)？
 
 1. R 只有30M的大小，而且免费下载
 2. R可以写作业，有世界顶级的老师辅导

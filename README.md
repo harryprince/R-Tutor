@@ -21,7 +21,9 @@ R-Tutor
 ## 2.普通青年怎么学R？
 
 不同的人，有不同的理由学习R。
-1.最普遍的需求是写作业，做Presentation
+
+* 最普遍的需求是写作业，做Presentation
+
 而谢溢辉老师写的Knitr包满足的大家的需要
 
 > 谢溢辉老师在介绍 Knitr包 http://yihui.name/knitr/ （需要梯子）
@@ -31,16 +33,16 @@ R-Tutor
 膜拜感激谢溢辉老师
 ********* 
 
-2.学R好去处：  统计之都 
+* 学R好去处：  统计之都 
 
 > 统计之都:http://cos.name
     
-3. 学R必备神器：RStudio  
+* 学R必备神器：RStudio  
 神器有多神 用过就知道
 
 > RStudio下载:http://www.rstudio.com/products/rstudio/download/
 
-4. R推荐中文书籍：R语言实战；R语言经典实例
+* R推荐中文书籍：R语言实战；R语言经典实例
 
 ### 科研人员文艺青年怎么学R？
 
@@ -48,23 +50,23 @@ R-Tutor
 
 * 4步学R   //欢迎补充
 
-1.和基础数学有关
+  1.和基础数学有关
 
 矩阵论和线性代数
 [徐老师 优酷视频]（http://i.youku.com/u/UMTIwMTA4MDczNg==）//学习高数和线性代数
 [MIT 网易公开课] （http://v.163.com/special/opencourse/daishu.html）
 [Khan 网易公开课] （http://v.163.com/special/Khan/linearalgebra.html）
 
-2.和应用数学有关
+  2.和应用数学有关
 
 概率论和数理统计
 [Youtube 台湾统计老师] （https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ）//需要梯子
 
-3.和计算机基础有关
+  3.和计算机基础有关
 
 数据结构 、编程基础、操作系统 
 
-4.和你的专业有关
+  4.和你的专业有关
 
 Example：运筹学与最优化理论 
 

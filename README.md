@@ -4,8 +4,8 @@ R-Tutor
 #  一步大师之R
 ## 一步大师手册
 
- 致力于改善中文社区计算机晦涩难懂的学习情况，让越来越多的中国学生，轻而易举地加入到计算平台中，享受开源代码的乐趣！
-
+ 更快地完成任务，更多的时间玩。
+ 
 * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 ## 一.为什么用[R](http://mirror.bjtu.edu.cn/cran/)？

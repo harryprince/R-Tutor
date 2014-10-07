@@ -41,7 +41,7 @@ R-Tutor
 
 ## 三.科研人员文艺青年怎么学R？
 
-根据你的专业，可能是做生物的、做制药的、做统计的、做物理的、搞金融的、搞物流、搞电商的，不管你做什么domain
+根据你的专业，可能是做生物的、做制药的、做信号的、做统计的、做物理的、搞金融的、搞物流、搞电商的，不管你做什么domain
 
 **4步学R**   //欢迎补充
 
@@ -49,8 +49,8 @@ R-Tutor
 
 矩阵论和线性代数
 * [徐老师 优酷视频](http://i.youku.com/u/UMTIwMTA4MDczNg==)//学习高数和线性代数
-* [MIT 网易公开课](http://v.163.com/special/opencourse/daishu.html)
-* [Khan 网易公开课](http://v.163.com/special/Khan/linearalgebra.html)
+* [MIT 网易公开课](http://v.163.com/special/opencourse/daishu.html)//高级
+* [Khan 网易公开课](http://v.163.com/special/Khan/linearalgebra.html)//入门
 
 ### 2.和应用数学有关
 
@@ -65,7 +65,7 @@ R-Tutor
 
 Example：运筹学与最优化理论 
 
-* [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)
+* [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
 
 
 

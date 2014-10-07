@@ -27,15 +27,15 @@ R-Tutor
 
 而谢溢辉老师写的Knitr满足的大家的需要，教你如何优雅地写作业
 
-[谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/) （需要梯子）
-[老师写的中文介绍]( http://cos.name/tag/knitr/)
-[老师的github主页](https://github.com/yihui/yihui.github.com)
+* [谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/) （需要梯子）
+* [老师写的中文介绍]( http://cos.name/tag/knitr/)
+* [老师的github主页](https://github.com/yihui/yihui.github.com)
 
 ```
 膜拜感激谢溢辉老师
 ```
 
-[写这个文档的教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
+* [写这个文档的教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 * 2.学R好去处：  统计之都 
 

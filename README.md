@@ -8,7 +8,7 @@ R-Tutor
 
 * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
-## 1.为什么用R？
+## 一.为什么用R？
 
 1. R 只有30M的大小，而且免费下载
 2. R可以写作业，有世界顶级的老师辅导
@@ -20,16 +20,17 @@ R-Tutor
 8. 全面支持中文；R 支持用中文编程，不会英文的同学有福了
 9. R中极客；R 可以调用Python、Matlab、Excel、C、Java等等 灵活性强
 
-## 2.普通青年怎么学R？
+## 二.普通青年怎么学R？
 
 不同的人，有不同的理由学习R。
 
 ### 1.最普遍的需求是写（chao）作业，做展示
 以前都用office（daoban）
 
-而谢溢辉老师写的Knitr满足的大家的需要，教你如何优雅地写作业
+而谢溢辉老师发明了写作神器Knitr，教你如何优雅地写作业
+[!knitr](http://yihui.name/knitr/images/knit-logo.png)
 
-* [谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/)
+* [谢溢辉老师的介绍](http://yihui.name/knitr/) //Knitr包 
 * [老师写的中文介绍]( http://cos.name/tag/knitr/)
 * [老师的github主页](https://github.com/yihui/yihui.github.com)
 
@@ -49,9 +50,9 @@ R-Tutor
 
 ### 4.R推荐中文书籍：R语言实战；R语言经典实例
 
-## 3.科研人员文艺青年怎么学R？
+## 三.科研人员文艺青年怎么学R？
 
-根据你的专业，可能是做生物的、做制药的、做统计的、做物理的，不管你做什么domain
+根据你的专业，可能是做生物的、做制药的、做统计的、做物理的、搞金融的、搞物流、搞电商的，不管你做什么domain
 
 **4步学R**   //欢迎补充
 

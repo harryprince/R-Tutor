@@ -43,7 +43,7 @@ R-Tutor
 ### 2.学R好去处：  [统计之都](http://cos.name)
 
 
-### 3.R中好书 //求添加
+### 3.R中好书 [R语言核心技术手册](http://item.jd.com/11520666.html?utm_source=p.yiqifa.com&utm_medium=tuiguang&utm_campaign=t_1_755954&utm_term=42fad2096e0d4ec99989abb0855e0248)
 
 ## 三.科研人员文艺青年怎么学R？
 

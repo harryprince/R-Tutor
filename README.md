@@ -1,16 +1,14 @@
 R-Tutor
 =======
 
-#  一步大师之R
-
+# 不忘初心，放得始终
  * 更快地完成任务，更多的时间玩。
  * 提高自己，帮助他人
- 
-* [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
+ * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 ## 一.为什么用[R](http://mirror.bjtu.edu.cn/cran/)？
 
-1. R 只有30M的大小，而且免费下载
+1. [R](http://mirror.bjtu.edu.cn/cran/) 只有30M的大小，而且免费下载
 2. R可以写作业，有世界顶级的老师辅导
 3. [谢溢辉](https://github.com/yihui/yihui.github.com)等人在用
 4. 计算器；R 可以代替MatLab（yao）、Excel（qian）等数学计算工具

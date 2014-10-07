@@ -3,7 +3,7 @@ R-MarkDown
 
 作为一个年（fu）轻（bai）的学者，怎么发Paper真的是人生大事了。在R中不仅可以画画、做数学题、还可以写作！真是语文数学英语计算机全都用上了。
 ## MarkDown语言是第二牛逼的文学编程语言
-![MarkDown]（http://dribbble.s3.amazonaws.com/users/17115/screenshots/426495/markdown.png）
+![MarkDown](http://dribbble.s3.amazonaws.com/users/17115/screenshots/426495/markdown.png)
 * 可以轻松的写出文章的框架
 * 而且只有7条军规
 * 下面我们一起学习一下

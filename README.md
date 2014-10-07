@@ -70,6 +70,7 @@ R-Tutor
 Example：运筹学与最优化理论 
 
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
+*  [R实战之运筹学](https://github.com/harryprince/Operation-Research-with-R)
 
 ### 5.和计算机基础有关
 

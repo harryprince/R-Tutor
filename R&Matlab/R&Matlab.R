@@ -8,7 +8,5 @@ Image<-R.matlab::readMat('matlabtest.mat')##读取成功
 str(Image)##查看B中的信息
 ImageMatrix<-as.matrix(Image$B)
 
-##install.packages("ggplot2")安装 作图之神 包
-library(ggplot2)
-heatmap(ImageMatrix)##利用ggplot2包画出热力图
-##本文并未以ggplot2包作为讲解重点
+##得到数字高程图
+contour(ImageMatrix)

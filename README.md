@@ -4,6 +4,7 @@ R-Tutor
 # 不忘初心，放得始终
  * 更快地完成任务，更多的时间玩，赚更多的钱。
  * 提高自己，帮助他人
+ * 求Star 求Fork
  * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 ## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？

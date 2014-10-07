@@ -18,6 +18,7 @@ R-Tutor
 7. 做会计的同学在用；R 可以快速制作3张表，分析各种财务问题；
 8. [搞电商的同学在用](http://www.bjt.name/2014/09/mail-from-audience/)；R 可以快速地进行商品推荐、商品搜索；（土豪）
 9. [出试卷的老师在用](http://www.loyhome.com/%E6%9C%89%E8%B6%A3%E7%9A%84r%E5%8C%85-%E8%AF%95%E5%8D%B7%E7%94%9F%E6%88%90%E5%99%A8-2/)； R 可以快速产生考试的试卷，减轻老师的负担！
+
 * R 可以代替MatLab（yao）、Excel（qian）等数学计算工具
 * [R](http://mirror.bjtu.edu.cn/cran/)只有30MB 而且免费！！！还不赶快下载！
 * 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了；

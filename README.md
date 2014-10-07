@@ -6,17 +6,19 @@ R-Tutor
  * 提高自己，帮助他人
  * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
-## 一.为什么用[R](http://mirror.bjtu.edu.cn/cran/)？
+## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？
 
-1. [R](http://mirror.bjtu.edu.cn/cran/) 只有30M的大小，而且免费下载
-2. R可以写作业，有世界顶级的老师辅导
-3. [谢溢辉](https://github.com/yihui/yihui.github.com)等人在用
-4. 计算器；R 可以代替MatLab（yao）、Excel（qian）等数学计算工具
-5. 制作图标的研究员；R 可以画出美丽的图画
-6. 对于做演讲的嘉宾；R 可以快速做出幻灯片代替PowerPoint
-7. 对于发论文的老师；R 可以快速完成Html网页和LaTex文学编程语言，论文必备；
-8. 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了
-9. R中极客；R 可以调用Python、Matlab、Excel、C、Java等等 灵活性强
+1. [谢溢辉](https://github.com/yihui/yihui.github.com)在用
+2. 搞金融的研究员在用；R 可以画k线图，做实时交易；
+3. 做演讲的嘉宾在用；R 可以快速地做出幻灯片，代替PowerPoint；
+4. 发论文的老师在用；R 可以写出所有数学符号，代替MathType，论文必备；
+5. 搞生物的同学在用；R 可以快速地进行生物统计分析，画出优雅的图形；
+6. 搞物流的同学在用；R 可以快速地进行运筹学计算，可视化最短路线；
+8. 搞电商的同学在用；R 可以快速地进行商品推荐、商品搜索；
+
+* R 可以代替MatLab（yao）、Excel（qian）等数学计算工具
+* [R](http://mirror.bjtu.edu.cn/cran/)只有30MB 而且免费！！！还不赶快下载！
+* 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了；
 
 ## 二.普通青年怎么学R？
 

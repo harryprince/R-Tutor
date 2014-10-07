@@ -28,7 +28,7 @@ R-Tutor
 以前都用office（daoban）
 
 而谢溢辉老师发明了写作神器Knitr，教你如何优雅地写作业
-[!knitr](http://yihui.name/knitr/images/knit-logo.png)
+![knitr](http://yihui.name/knitr/images/knit-logo.png)
 
 * [谢溢辉老师的介绍](http://yihui.name/knitr/) //Knitr包 
 * [老师写的中文介绍]( http://cos.name/tag/knitr/)

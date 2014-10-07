@@ -63,11 +63,16 @@ R-Tutor
 
 数据结构 、编程基础、操作系统 
 
-### 4.和你的专业有关
+### 4.R中操作
+[R中矩阵操作]（https://github.com/harryprince/R-Tutor/tree/master/R%26Matrix）
+[R包] //R包就像手机上的App一样
+
+### 5.和你的专业有关
 
 Example：运筹学与最优化理论 
 
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
+
 
 
 

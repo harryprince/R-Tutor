@@ -22,27 +22,31 @@ R-Tutor
 
 不同的人，有不同的理由学习R。
 
-* 最普遍的需求是写作业，做Presentation
+* 1.最普遍的需求是写（chao）作业，做展示
+以前都用office（daoban）
 
-而谢溢辉老师写的Knitr包满足的大家的需要
+而谢溢辉老师写的Knitr满足的大家的需要，教你如何优雅地写作业
 
-> 谢溢辉老师在介绍 Knitr包 http://yihui.name/knitr/ （需要梯子）
-> 中文介绍 http://cos.name/tag/knitr/
+[谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/) （需要梯子）
+[老师写的中文介绍]( http://cos.name/tag/knitr/)
+[老师的github主页](https://github.com/yihui/yihui.github.com)
 
-
+```
 膜拜感激谢溢辉老师
-********* 
+```
 
-* 学R好去处：  统计之都 
+[写这个文档的教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
+
+* 2.学R好去处：  统计之都 
 
 > 统计之都:http://cos.name
     
-* 学R必备神器：RStudio  
+* 3.学R必备神器：RStudio  
 神器有多神 用过就知道
 
 > RStudio下载:http://www.rstudio.com/products/rstudio/download/
 
-* R推荐中文书籍：R语言实战；R语言经典实例
+* 4.R推荐中文书籍：R语言实战；R语言经典实例
 
 ### 科研人员文艺青年怎么学R？
 

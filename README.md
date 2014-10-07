@@ -64,8 +64,10 @@ R-Tutor
 数据结构 、编程基础、操作系统 
 
 ### 4.R中操作
-[R中矩阵操作]（https://github.com/harryprince/R-Tutor/tree/master/R%26Matrix）
-[R包] //R包就像手机上的App一样
+
+* [R中矩阵操作](https://github.com/harryprince/R-Tutor/tree/master/R%26Matrix）
+
+* [R包] //R包就像手机上的App一样
 
 ### 5.和你的专业有关
 

@@ -6,6 +6,8 @@ R-Tutor
 
  致力于改善中文社区计算机晦涩难懂的学习情况，让越来越多的中国学生，轻而易举地加入到计算平台中，享受开源代码的乐趣！
 
+* [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
+
 ## 1.为什么用R？
 
 1. R 只有30M的大小，而且免费下载
@@ -27,7 +29,7 @@ R-Tutor
 
 而谢溢辉老师写的Knitr满足的大家的需要，教你如何优雅地写作业
 
-* [谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/) （需要梯子）
+* [谢溢辉老师在介绍](Knitr包 http://yihui.name/knitr/)
 * [老师写的中文介绍]( http://cos.name/tag/knitr/)
 * [老师的github主页](https://github.com/yihui/yihui.github.com)
 
@@ -35,7 +37,6 @@ R-Tutor
 膜拜感激谢溢辉老师
 ```
 
-* [写这个文档的教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 * 2.学R好去处：  统计之都 
 

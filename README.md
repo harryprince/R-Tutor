@@ -48,14 +48,14 @@ R-Tutor
 ### 1.和基础数学有关
 
 矩阵论和线性代数
-* [徐老师 优酷视频]（http://i.youku.com/u/UMTIwMTA4MDczNg==）//学习高数和线性代数
-* [MIT 网易公开课] （http://v.163.com/special/opencourse/daishu.html）
-* [Khan 网易公开课] （http://v.163.com/special/Khan/linearalgebra.html）
+* [徐老师 优酷视频](http://i.youku.com/u/UMTIwMTA4MDczNg==)//学习高数和线性代数
+* [MIT 网易公开课](http://v.163.com/special/opencourse/daishu.html)
+* [Khan 网易公开课](http://v.163.com/special/Khan/linearalgebra.html)
 
 ### 2.和应用数学有关
 
  概率论和数理统计
-* [Youtube 台湾统计老师] （https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ）//需要梯子
+* [Youtube 台湾统计老师](https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ) //需要梯子
 
 ### 3.和计算机基础有关
 
@@ -65,7 +65,7 @@ R-Tutor
 
 Example：运筹学与最优化理论 
 
-* [游老师 优酷视频]（http://i.youku.com/u/UMjA2MTkyNTA0/videos）
+* [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)
 
 
 

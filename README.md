@@ -2,9 +2,9 @@ R-Tutor
 =======
 
 #  一步大师之R
-## 一步大师手册
 
- 更快地完成任务，更多的时间玩。
+ * 更快地完成任务，更多的时间玩。
+ * 提高自己，帮助他人
  
 * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 

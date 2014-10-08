@@ -1,5 +1,5 @@
 #[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
-带你学R，带你飞
+[带你学R，带你飞](http://yishuo.org/r/2012/01/19/how-to-learn-r-by-reading-books.html)
 ![R](https://pbs.twimg.com/profile_images/508630159461580801/SPEYeilx_400x400.jpeg)
 =======
 

@@ -4,10 +4,9 @@
 =======
 
 # 不忘初心，方得始终
- * 更快地完成任务，更多的时间玩，赚更多的钱。
+ * 传播 R语言
  * 提高自己，帮助他人
- * 求Star 求Fork
- * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
+ * [本文MarkDown风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 ## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？
 
@@ -24,7 +23,7 @@
 * [R](http://mirror.bjtu.edu.cn/cran/)只有30MB 而且免费！！！还不赶快下载！
 * 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了；
 
-## 二.普通青年怎么学R？
+## 二.普通青年怎么用R？
 
 不同的人，有不同的理由学习R。
 
@@ -43,7 +42,13 @@
 ### 2.学R好去处：  [统计之都](http://cos.name)
 
 
-### 3.R中好书 [R语言核心技术手册](http://item.jd.com/11520666.html?utm_source=p.yiqifa.com&utm_medium=tuiguang&utm_campaign=t_1_755954&utm_term=42fad2096e0d4ec99989abb0855e0248)
+### 3.R中好书 
+
+* [R语言核心技术手册](http://item.jd.com/11520666.html?utm_source=p.yiqifa.com&utm_medium=tuiguang&utm_campaign=t_1_755954&utm_term=42fad2096e0d4ec99989abb0855e0248)
+
+* [153分钟学R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
+
+* [R学习路线](http://yishuo.org/r/2012/01/19/how-to-learn-r-by-reading-books.html)
 
 ## 三.科研人员文艺青年怎么学R？
 

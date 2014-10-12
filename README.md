@@ -1,6 +1,6 @@
 #[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
 
-带你学R，带你飞；小白学R，
+带你学R，带你飞
 
 ![R](https://pbs.twimg.com/profile_images/508630159461580801/SPEYeilx_400x400.jpeg)
 =======

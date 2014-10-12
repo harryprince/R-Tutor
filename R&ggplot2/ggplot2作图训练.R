@@ -1,0 +1,117 @@
+library(ggplot2)
+##in ggplot2,qplot is the fundmental function
+
+## 简单数据初始化
+n<-100
+x<-1:n
+for(i in 1:n){
+  y[i]<- rnorm(i)
+}
+z<- rep(c(1:(n/2)),2)
+t<-rep(c("a","b","c","d","e","f","g","h"),n/8)
+data<-data.frame(x,y,z,t)
+
+head(data)
+##气泡图  z 为数字 t 为名称 alpha 设置透明度 控制size = 数值型 colour = 类别型
+ggplot(data,aes(x=x,y=y,size=z,colour=t))+geom_point(alpha=1)+stat_smooth(method=loess)  ##漂亮的小河
+
+##渐进图  z 为数字 t 为名称 连续型数据 梯度下降 fill = 数值型
+ggplot(data,aes(x=x,y=y,fill=z))+geom_line()+scale_fill_gradient2()
+##渐进图   离散型数据 美图~~
+ggplot(data,aes(x=x,y=y,fill=t))+geom_area()+scale_fill_discrete()+scale_fill_hue(l=30)
+
++scale_fill_grey()
+
+##条形图 单变量
+ggplot(data,aes(x=y))+geom_histogram(fill="cyan",colour="red")
+
+##瓷砖图 要求数据为 数字型 （热图）
+cc=1:n
+x=1:n
+y=rep(1:(n/2),2)
+rrr=data.frame(x,y,cc)
+ggplot(rrr,aes(x=x,y=y,fill=cc))+geom_raster()+geom_tile()
+
+##裂变图  没用colour 没用shape
+ggplot(data,aes(x=x,y=y))+geom_point(alpha=0.1)+geom_point(alpha=0.01)
+
+ggplot(data,aes(x=x,y=y,fill=t))+geom_area()+scale_fill_hue()
+
+## 加深颜色
++scale_colour_hue(l=30)
+
+## 分图显示
++facet_grid(z ~ .) #上下
++facet_grid(. ~ t)  #左右
+
+##修改坐标轴 刻度 tick spacing
++coord_fixed()
++scale_y_continuous(breaks=seq(0,1,0.05))
++scale_x_continuous(breaks=seq(0,1000,100))
+
+##修改tick label
++ylab("dfsa")
++xlab("fghfg")
++ggtitle("fsd")
++labs("sda/dsf")
+##图上依次标注时间
++ geom_text(aes(label=x),size=3,falimy="Times",color="cyan")
+
+##小河效果
++stat_smooth(method=lm,se=FALSE,colour="red")  ##直线的小河
+
+##+geom_text(x=3,y=1,aes(label=formula),data = labels,parse = TRUE,hjust = 0)
++stat_smooth(method=loess)  ##漂亮的小河 局部加权回归
+
+
+##跳动点
++geom_point(position="jitter",alpha=0.01)
+
+##加说明公式
++annotate("text",x=5000,y=1,parse=TRUE,label="'function=' * frac(1,sqrt(2*pi))*e^{-x^2/2}")
+
+##添加辅助线
++geom_hline(yintercept=0.75)
++geom_vline(xintercept=50000)
++geom_abline(intercept=0.5,slope=0.5)
+
+##添加矩形 添加箭头
++annotate("rect",xmin=10,xmax=1000,ymin=0.01,ymax=0.99,alpha=0.1,fill="red")
++annotate("sgement",x=100,xend=1000,y=0.01,yend=0.99,size=1,colour="cyan",arrow=arrow())
+
+
+##每个气泡添加时间
+geom_text(aes(label=x),size=4,falimy="Times",color="cyan")
+
+tif100<-read.csv('100.csv',header = FALSE,sep =",")
+plot(tif100)
+data(tif100)
+ggplot(tif100)  ##core function
+qplot(1,1,data=tif100，color = f ？)
+qplot(displ,hwy,data=mpg,geom=c("point","smooth"))##get river
+qplot(hwy,data = mpg,fill=drv)  ##get histgram
+qplot(displ,hwy,data = mpg,facets=.~drv)#display by different facests 分条比较
+qplot(1,data = tif100,fill =2)
+qplot(1,2,data = tif100,color = 2,geom = c("point","smooth"),method = "lm")
+qplot(displ,hwy,data = mpg,color = 100,geom = c("point","smooth"),method = "lm")
+
+##qplot(xcoord,ycoord,data frame)##适合两列数据的交叉显示
+##aesthetics(size,shape,color)
+##geoms
+
+##qplot(x的值,y的值,data数据)
+library(ggplot2)
+运筹<-  c(2,60,140,140)
+高数<- c(120,140,130,135)
+英语<- c(100,100,120,130)
+时间<- c(2011,2012,2013,2014)
+学生成绩 <-data.frame(时间,运筹,高数,英语)
+qplot(学生成绩$时间,data=学生成绩,geom='histogram',colour = I("white"), fill = I("black"))
+qplot(学生成绩$时间,data=学生成绩,geom=c('histogram'), fill = I("purple"))
+plot(学生成绩)
+
+
+
+          
+          
+          

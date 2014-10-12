@@ -1,0 +1,25 @@
+---
+title: "代码美化教程"
+author: "HarryZhu"
+date: "October 8, 2014"
+output: html_document
+---
+
+# 代码美化教程
+平时我们写代码的时候，不太注重美观度，缩进和间隔都没注意
+如果写完直接给其他人读，读者基本都头疼。而修改格式又花费很多时间，大多数人不愿意做。
+
+# 直到有一天
+谢溢辉老师来了，带着```formatR包``` ，石破天惊！
+
+```{r}
+library(formatR)
+dirtyCode<- c("写得歪扭歪扭的码代")
+tidy_source(text= dirtyCode,width.cutoff = 70)
+```
+
+* tidy()处女座类函数默认从剪贴板里直接提取代码
+**这功能真心碉堡了**
+```{r,echo=FALSE}
+tidy_source(width.cutoff = 70)
+```

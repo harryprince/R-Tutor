@@ -9,7 +9,7 @@
 
  * 使命：提高自己，帮助他人
 
- * `三无人员` 看过来：`无编程经验` `无统计知识` `无英语证书`
+ * `“三无人员”` 看过来：`无编程经验` `无统计知识` `无英语证书`
 
  * [本文MarkDown风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)//写微信公众号必备技能
 
@@ -20,7 +20,7 @@
 `当你觉得它很美的时候，你已经入门了。`
 
 
-1. [谢溢辉](http://yihui.name/cn/)在用 (R中初代火影级别人物）
+1. [谢溢辉](http://yihui.name/cn/)用。 (R中初代火影级别人物）
 
 2. [搞物流]() AHP系统分析,最优化分析,可视化最优方案等。
 
@@ -133,9 +133,9 @@ Example2： 数据挖掘
 
 `当你知道某问题没有答案时，你已经合格了。`
 
-如Rstudio首席工程师 Hadley weadom 制作了 ggplot2 plyr reshape2 ggvis 等包
+如Rstudio首席工程师 Hadley Wickham 制作了 ggplot2 plyr reshape2 ggvis 等包
 
 * 我还没成为R神，我也不知道。
 
-* R神 ： 谢溢辉  Hadley weadom 
+* R神 ： 谢溢辉     Hadley Wickham 
 

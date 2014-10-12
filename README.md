@@ -10,7 +10,7 @@
  * [本文风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)
 
 ## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？
-
+![ggplot2](https://github.com/harryprince/R-Tutor/blob/master/R%26ggplot2/气泡图.png)
 1. [谢溢辉](http://yihui.name/cn/)在用
 2. 搞金融的研究员在用；R 可以画k线图，做实时交易；（壕）
 3. 做演讲的嘉宾在用；R 可以快速地做出幻灯片，代替PowerPoint；

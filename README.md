@@ -124,7 +124,9 @@ Example1：运筹学与最优化理论
 
 Example2： 数据挖掘
 
-* weka与数据挖掘（java） 
+* weka与数据挖掘（java）
+
+* [DeepLearning](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
 
 ### 5.和计算机基础有关
 

@@ -7,26 +7,23 @@
 
 # 不忘初心，方得始终
 
- * 使命：提高自己，帮助他人
+ * 我们的使命：提高自己，帮助他人
 
- * `“三无人员”` 看过来：`无编程经验` `无统计知识` `无英语证书`
-
- * [本文MarkDown风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)//写微信公众号必备技能
-
-## 一.什么人用[R](http://mirror.bjtu.edu.cn/cran/)？
+ * 适用于 `“三无人员”` ：`无编程经验` `无统计知识` `无英语证书`
 
 ![ggplot2](https://github.com/harryprince/R-Tutor/blob/master/R%26ggplot2/气泡图.png)
 
 `当你觉得它很美的时候，你已经入门了。`
 
 
+## 一.谁用[R](http://mirror.bjtu.edu.cn/cran/)？
+
 1. [谢溢辉](http://yihui.name/cn/)用。 (R中初代火影级别人物）
 
-2. [搞物流]() AHP系统分析,最优化分析,可视化最优方案等。
-
+2. [搞物流](https://github.com/harryprince/Operation-Research-with-R) 物流系统分析
 3. [搞电商](http://www.bjt.name/2014/09/mail-from-audience/)；京东刘思喆老师；（土豪）
 
-4. [出试卷，写论文，发微信](http://www.loyhome.com/%E6%9C%89%E8%B6%A3%E7%9A%84r%E5%8C%85-%E8%AF%95%E5%8D%B7%E7%94%9F%E6%88%90%E5%99%A8-2/)； 结合Knitr+MarkDown 解决常见的文档编辑问题! 
+4. [出试卷，写论文，发微信](http://www.loyhome.com/%E6%9C%89%E8%B6%A3%E7%9A%84r%E5%8C%85-%E8%AF%95%E5%8D%B7%E7%94%9F%E6%88%90%E5%99%A8-2/)； 结合Knitr+Mou 解决常见的文档编辑问题! 
 
 5. 其他高大上派系：金融、生物、医学、统计等、
 
@@ -37,14 +34,17 @@
 
 * 神器[RStudio](http://www.rstudio.com/products/rstudio/download/)；使得R 全面支持中文，不会英文的同学有福了；→[下载地址](http://www.rstudio.com/products/rstudio/download/)
 
-## 二.普通青年怎么学R？
+* [本文MarkDown风格教程](https://github.com/harryprince/R-Tutor/tree/master/R-MarkDown)//写微信公众号必备技能
+
+
+`当你觉得它很好用的时候，你掌握它了。
+
+## 二.普通青年怎么用R？
 
 不同的人，有不同的理由学习R。
+`
 
-`当你觉得它很好用的时候，你掌握它了。`
-
-
-### 1.最普遍的需求是写（chao）作业，做展示
+### 1.最普遍的需求是写（chao）作业，做演示
 
 以前都用（dao）office（ban）
 

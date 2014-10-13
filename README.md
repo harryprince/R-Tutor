@@ -1,6 +1,6 @@
 #[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
 
-带你学R，带你飞
+带你学R，带你飞；小白学R，
 
 ![R](https://pbs.twimg.com/profile_images/508630159461580801/SPEYeilx_400x400.jpeg)
 =======
@@ -92,6 +92,9 @@
 
 * [Youtube 台湾统计老师](https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ) //需要梯子
 
+* [USTC](http://staff.ustc.edu.cn/~zwp/teach.htm) 
+
+
 ### 3.R中操作
 
 * 使用R包 //R包的概念类似于手机的App
@@ -122,8 +125,6 @@ Example1：运筹学与最优化理论
 Example2： 数据挖掘
 
 * weka与数据挖掘（java） 
-
-* [DeepLearning学习资源](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html) 
 
 ### 5.和计算机基础有关
 

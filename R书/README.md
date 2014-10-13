@@ -1,6 +1,6 @@
 #[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
 
-带你学R，带你飞；小白学R，
+带你学R，带你飞
 
 ![R](https://pbs.twimg.com/profile_images/508630159461580801/SPEYeilx_400x400.jpeg)
 =======
@@ -124,7 +124,9 @@ Example1：运筹学与最优化理论
 
 Example2： 数据挖掘
 
-* weka与数据挖掘（java） 
+* weka与数据挖掘（java）
+
+* [DeepLearning](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)  
 
 ### 5.和计算机基础有关
 

@@ -123,6 +123,8 @@ Example2： 数据挖掘
 
 * weka与数据挖掘（java） 
 
+* [DeepLearning学习资源](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html) 
+
 ### 5.和计算机基础有关
 
 数据结构 、编程基础、操作系统

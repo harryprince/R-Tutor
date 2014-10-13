@@ -92,6 +92,9 @@
 
 * [Youtube 台湾统计老师](https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ) //需要梯子
 
+* [USTC](http://staff.ustc.edu.cn/~zwp/teach.htm) 
+
+
 ### 3.R中操作
 
 * 使用R包 //R包的概念类似于手机的App

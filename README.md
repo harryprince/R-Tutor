@@ -53,6 +53,10 @@
 
 [Knitr中文介绍]( http://cos.name/tag/knitr/)```膜拜作者：谢溢辉老师```
 
+![Mou](http://25.io/mou/img/mou_512x512@2x.png)
+
+[Mou主页](http://25.io/mou/)
+
 ### 2.学R好去处：  [统计之都](http://cos.name)
 
 

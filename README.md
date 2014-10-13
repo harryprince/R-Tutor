@@ -53,7 +53,7 @@
 
 [Knitr中文介绍]( http://cos.name/tag/knitr/)```膜拜作者：谢溢辉老师```
 
-![Mou](http://25.io/mou/img/mou_512x512@2x.png)
+![Mou](http://liveyourbestdreams.com/images/mou-icon-20111010.gif)
 
 [Mou主页](http://25.io/mou/)
 

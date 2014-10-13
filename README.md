@@ -23,7 +23,7 @@
 2. [搞物流](https://github.com/harryprince/Operation-Research-with-R) 物流系统分析
 3. [搞电商](http://www.bjt.name/2014/09/mail-from-audience/)；京东刘思喆老师；（土豪）
 
-4. [出试卷，写论文，发微信](http://www.loyhome.com/%E6%9C%89%E8%B6%A3%E7%9A%84r%E5%8C%85-%E8%AF%95%E5%8D%B7%E7%94%9F%E6%88%90%E5%99%A8-2/)； 结合Knitr+Mou 解决常见的文档编辑问题! 
+4. [出试卷，写论文，发微信](http://www.loyhome.com/%E6%9C%89%E8%B6%A3%E7%9A%84r%E5%8C%85-%E8%AF%95%E5%8D%B7%E7%94%9F%E6%88%90%E5%99%A8-2/)； 结合Knitr+[Mou](http://25.io/mou/) 解决常见的文档编辑问题! 
 
 5. 其他高大上派系：金融、生物、医学、统计等、
 

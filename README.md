@@ -13,7 +13,8 @@
 
 ![ggplot2](https://github.com/harryprince/R-Tutor/blob/master/R%26ggplot2/气泡图.png)
 
-`当你觉得它很美的时候，你已经入门了。`
+
+ `当你觉得它很美的时候，你已经入门了。`
 
 
 ## 一.谁用[R](http://mirror.bjtu.edu.cn/cran/)？

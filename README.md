@@ -124,8 +124,10 @@ DataScientist = Statistics Science + Computer Science + Domain Science
 	3. rattle 数据挖掘包
 	4. 还有很多我也没听说过的3000+个包
 
-* 教学资源
-	[youtube 台湾R演习室](https://www.youtube.com/watch?v=STcIxf_vUWY&list=PL5AC0ADBF65924EAD)//
+* R教学课程
+	[youtube 台湾R演习室](https://www.youtube.com/watch?v=STcIxf_vUWY&list=PL5AC0ADBF65924EAD)//R&统计
+
+	[CodeSchool](http://tryr.codeschool.com)//基础
 		
 #### 4.和你的专业有关
 

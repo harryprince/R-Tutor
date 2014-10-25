@@ -96,6 +96,7 @@ DataScientist = Statistics Science + Computer Science + Domain Science
 
 * [Khan 网易公开课](http://v.163.com/special/Khan/linearalgebra.html)//入门
 
+* [何英凯 跨考概率论](http://v.kuakao.com/video/specialPlay.action?specialId=24&videoId=865)
 #### 2.和应用数学有关
 
  概率论与数理统计

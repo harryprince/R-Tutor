@@ -96,7 +96,6 @@ DataScientist = Statistics Science + Computer Science + Domain Science
 
 * [Khan 网易公开课](http://v.163.com/special/Khan/linearalgebra.html)//入门
 
-* [何英凯 跨考概率论](http://v.kuakao.com/video/specialPlay.action?specialId=24&videoId=865)
 #### 2.和应用数学有关
 
  概率论与数理统计
@@ -104,6 +103,8 @@ DataScientist = Statistics Science + Computer Science + Domain Science
 * [Youtube 台湾统计老师](https://www.youtube.com/channel/UCp4PY14p-zim26ACwfCzTvQ) //需要梯子
 
 * [USTC](http://staff.ustc.edu.cn/~zwp/teach.htm) 
+
+* [何英凯 跨考概率论](http://v.kuakao.com/video/specialPlay.action?specialId=24&videoId=865)//精品
 
 
 #### 3.R中操作
@@ -137,6 +138,10 @@ Example1：运筹学与最优化理论
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
 
 * [中国石油大学 Youtube视频](https://www.youtube.com/watch?v=Y9nTSn6KEJo&list=PLtkTPxXy_gglkqWeyZqV_VH4N2XCU9Ozo)//精品
+
+* [杜刚老师 中国大学视频公开课](http://www.icourses.cn/coursestatic/course_2241.html)//精品
+
+* [韩伯棠老师 中国大学视频公开课](http://www.icourses.cn/coursestatic/course_3675.html)//精品
 
 *  [R实战之运筹学](https://github.com/harryprince/Operation-Research-with-R)[高阶]
 

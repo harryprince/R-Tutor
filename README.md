@@ -136,6 +136,8 @@ Example1：运筹学与最优化理论
 
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
 
+* [中国石油大学 Youtube视频](https://www.youtube.com/watch?v=Y9nTSn6KEJo&list=PLtkTPxXy_gglkqWeyZqV_VH4N2XCU9Ozo)//精品
+
 *  [R实战之运筹学](https://github.com/harryprince/Operation-Research-with-R)[高阶]
 
 Example2： 数据挖掘

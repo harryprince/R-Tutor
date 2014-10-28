@@ -136,7 +136,8 @@ Example1：运筹学与最优化理论
 
 * [游老师 优酷视频](http://i.youku.com/u/UMjA2MTkyNTA0/videos)//入门
 
-* [中国石油大学 Youtube视频](https://www.youtube.com/watch?v=Y9nTSn6KEJo&list=PLtkTPxXy_gglkqWeyZqV_VH4N2XCU9Ozo)//精品
+* [事理求精运筹学 Youtube视频](https://www.youtube.com/watch?v=Y9nTSn6KEJo&list=PLtkTPxXy_gglkqWeyZqV_VH4N2XCU9Ozo)//精品
+* [事理求精运筹学 国内](http://www.icourses.cn/viewVCourse.action?courseCode=11414V001)//精品
 
 * [杜刚老师 中国大学视频公开课](http://www.icourses.cn/coursestatic/course_2241.html)//精品
 

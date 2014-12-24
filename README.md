@@ -145,6 +145,8 @@ Example1：运筹学与最优化理论
 
 *  [R实战之运筹学](https://github.com/harryprince/Operation-Research-with-R)[高阶]
 
+*  [Youtube Krzysztof Fleszar的公开课](https://www.youtube.com/channel/UCr8dlKq8P9IJ6VZ1-_e-0SA)[全面]
+
 Example2： 数据挖掘
 
 * [weka](http://www.cs.waikato.ac.nz/ml/weka/downloading.html)与数据挖掘（基于java的另一个开源软件 类似于R）

@@ -157,6 +157,8 @@ Example2： 数据挖掘
 
 数据结构 、编程基础、操作系统
 
+* [Youtube Bo Qian的c++高级教程](https://www.youtube.com/user/BoQianTheProgrammer)
+
 ## 四.R神用R？
 
 `当你知道某问题没有答案时，你已经合格了。`

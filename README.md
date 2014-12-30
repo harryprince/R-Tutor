@@ -121,6 +121,8 @@ Example3： 控制原理
 
 *  [航天器控制原理](http://www.icourse163.org/learn/nwpu-21004?tid=21004#/learn/content?type=detail&id=201037&sm=1)
 
+*  [上海交大 自动控制原理](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=2941&characId=40222)
+
 #### 5.和计算机基础有关
 
 数据结构 、编程基础、操作系统

@@ -1,0 +1,46 @@
+---
+title: "C++学习笔记"
+author: "HarryZhu"
+date: "December 30, 2014"
+output: html_document
+---
+c++ 的指针调用
+
+$e^{\pi i} + 1 = 0$
+```
+# include <iostream>
+using namespace std;
+int main(){
+    
+    int fish = 5;
+    int *fishP ;  // a different way to assign the type of data.
+                    // we need to assign the address to fishP;
+                    //*fishp means a value;
+    fishP = &fish;
+
+    cout << fishP<<endl;
+
+    cout << &fish <<endl;
+    cout << *fishP <<endl;
+    
+    cout << **&fishP <<endl;
+    cout << *&*fishP<< endl;
+    
+    // cout << *&&fishP<<endl;//wrong; 
+    // cout << &**fishP<<endl;//wrong;
+}
+```
+// you can find fishP is a pointer
+// *fishP means define fishP's type is a pointer;
+// and then we assign fish's address into fishP;
+// so now, fishP is an address instead of an value.
+
+```
+0x7fff5fbff79c
+0x7fff5fbff79c
+5
+5
+5
+0x7fff5fbff79c
+Program ended with exit code: 0
+```

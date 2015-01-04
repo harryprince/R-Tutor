@@ -131,7 +131,7 @@ Example3： 控制原理
 
 * [Youtube bucky 的c++ 初级教程](https://www.youtube.com/user/thenewboston/playlists)
 
-
+* [离散数学 北大](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=6447&sectionId=87823)
 
 
 

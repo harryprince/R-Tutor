@@ -123,6 +123,8 @@ Example3： 控制原理
 
 *  [上海交大 自动控制原理](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=2941&characId=40222)
 
+*  [Youtube Control System](https://www.youtube.com/watch?v=O-OqgFE9SD4&index=1&list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L)
+
 #### 5.和计算机基础有关
 
 数据结构 、编程基础、操作系统

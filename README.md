@@ -135,5 +135,7 @@ Example3： 控制原理
 
 * [离散数学 北大](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=6447&sectionId=87823)
 
+* [数据结构 浙大](http://www.icourse163.org/learn/zju-93001?tid=120001#/learn/content?type=detail&id=399003&sm=1)
+
 
 

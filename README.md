@@ -137,5 +137,5 @@ Example3： 控制原理
 
 * [数据结构 浙大](http://www.icourse163.org/learn/zju-93001?tid=120001#/learn/content?type=detail&id=399003&sm=1)
 
-
+* [C语言程序设计精髓](http://www.icourse163.org/learn/hit-69005?tid=76003#/learn/announce)
 

@@ -139,3 +139,6 @@ Example3： 控制原理
 
 * [C语言程序设计精髓](http://www.icourse163.org/learn/hit-69005?tid=76003#/learn/announce)
 
+* [各路编程语言tutorial大全 Youtube Bucky](https://www.youtube.com/user/thenewboston/playlists)
+包含：（R、C、H5、Python、Android、PS、Java、PHP等等)
+

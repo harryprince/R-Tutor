@@ -142,3 +142,6 @@ Example3： 控制原理
 * [各路编程语言tutorial大全 Youtube Bucky](https://www.youtube.com/user/thenewboston/playlists)
 包含：（R、C、H5、Python、Android、PS、Java、PHP等等)
 
+* [哈工大 数据结构](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=5976&sectionId=100665)
+
+* [山东科技 图像处理](http://www.icourses.cn/jpk/viewCharacterDetail.action?courseId=2523&sectionId=11445)

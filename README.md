@@ -1,5 +1,8 @@
 #[R-Tutor](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
 
+最近做R语言开发，配合Docker+Shiny看到了R语言作为工程主力的春天！
+主站Demo: http://harryzhu.name:3838/shiny-examples-master/
+
 R语言学习资料大搜刮
 =======
 

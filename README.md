@@ -114,6 +114,7 @@ Example1：运筹学与最优化理论
 
 *  [Youtube Krzysztof Fleszar的公开课](https://www.youtube.com/channel/UCr8dlKq8P9IJ6VZ1-_e-0SA)[全面]
 
+* [Youtube non-linear programming](https://www.youtube.com/watch?v=9hMx6RIrjDM&list=PLj6E8qlqmkFvkpJZhgC-warn47rQj4QVQ)
 Example2： 数据挖掘
 
 * [weka](http://www.cs.waikato.ac.nz/ml/weka/downloading.html)与数据挖掘（基于java的另一个开源软件 类似于R）

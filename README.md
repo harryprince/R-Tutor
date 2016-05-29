@@ -16,7 +16,7 @@ R语言学习套装
 7. [雪晴数据网 陈雁平](http://www.xueqing.tv/)
 8. [R语言极客 张丹](blog.fens.me/)
 9. [ParallelR 赵鹏](http://www.parallelr.com/)
-10. [芝加哥大学PhD 楠肖](http://nanx.me/)
+10. [芝加哥大学PhD 肖楠](http://nanx.me/)
 ...
 
 ## 二、 [R语言软件下载](http://mirror.bjtu.edu.cn/cran/)

@@ -1,0 +1,70 @@
+---
+title: "中国地图"
+author: "HarryZhu"
+date: "October 15, 2014"
+output: html_document
+---
+```{r}
+library(sp)
+library(maptools)
+library(ggplot2)
+##得到城市名称
+mydat = readShapePoly("BOUNT_poly.shp")
+
+tmp = iconv(mydat$NAME99, from = "GBK")
+grep("珲春", tmp, value = TRUE)
+grep("珲春", tmp)
+mydat$ADCODE99[grep("珲春", tmp)]
+table(iconv(mydat$NAME99, from = "GBK"))
+
+
+Hunchun = mydat[substr(as.character(mydat$ADCODE99), 1, 4) == "2224", ]
+
+names(Hunchun)
+str(Hunchun)
+mysh = fortify(Hunchun, region = 'NAME99')
+mysh = transform(mysh, id = iconv(id, from = 'GBK'), group = iconv(group, from = 'GBK'))
+head(mysh, n = 2)
+
+names(mysh)[1:2] = c("x","y")   #这句是不得已而为之的黑魔法
+
+
+myepidat = data.frame(id = unique(sort(mysh$id)))
+myepidat$rand = runif(length(myepidat$id))
+myepidat
+
+csmap = ggplot(myepidat) +
+    geom_map(aes(map_id = id, fill = rand), color = "white", map = mysh) +
+    scale_fill_gradient(high = "darkgreen",low = "lightgreen") +
+    expand_limits(mysh) + coord_map()
+print(csmap)
+
+tmp = coordinates(Changsha)
+print(tmp)
+
+tmp = as.data.frame(tmp)
+tmp$names = iconv(Changsha$NAME99, from = 'GBK')
+print(tmp)
+
+csmap + geom_text(aes(x = V1,y = V2,label = names), family = "GB1", data = tmp)
+```
+
+```{r}
+ mydat = readShapePoly("BOUNT_poly.shp")
+Shanghai = mydat[substr(as.character(mydat$ADCODE99), 1, 2) == '2224',]
+mysh = fortify(Shanghai, region = 'NAME99')
+mysh = transform(mysh, id = iconv(id, from = 'GBK'), group = iconv(group, from = 'GBK'))
+head(mysh)
+# 黑魔法在此
+names(mysh)[c(1, 2, 6, 7)] = c("x", "y", "id", "code")
+
+myepidat = data.frame(id = unique(sort(mysh$id)))
+# 随机数字替代数据
+myepidat$rand = runif(length(myepidat$id))
+
+# 官方地图区划比较落后过时，目前上海是16区1县，神码“市直辖5区”的称呼已经过时。
+myepidat
+ggplot(myepidat) + geom_map(aes(map_id = id, fill = rand), map = mysh) +
+    expand_limits(mysh) + coord_map()
+```
+

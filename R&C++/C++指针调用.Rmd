@@ -2,7 +2,7 @@
 title: "C++学习笔记"
 author: "HarryZhu"
 date: "December 30, 2014"
-output: html_document
+output: pdf_document
 ---
 c++ 的指针调用
 
@@ -43,4 +43,5 @@ int main(){
 5
 0x7fff5fbff79c
 Program ended with exit code: 0
+sessionInfo()
 ```

@@ -1,0 +1,18 @@
+---
+title: "animation训练"
+author: "HarryZhu"
+date: "November 1, 2014"
+output: html_document
+---
+
+```{r}
+library(animation)
+des = c("膜拜yihui老师", "老师你怎么可以怎么牛逼.",
+"For example, bla bla...")
+saveHTML({
+par(mar = c(4, 4, 2, 0.1))
+grad.desc()
+}, img.name = "unif_plot", imgdir = "unif_dir", htmlfile = "random.html",
+autobrowse = FALSE, title = "Demo of 20 uniform random numbers",
+description = des)
+```

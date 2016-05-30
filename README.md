@@ -14,7 +14,7 @@ R语言学习套装
 5. [SparkR研究 孙锐](http://www.xueqing.tv/course/54)
 6. [普渡大学PhD 邱怡轩](http://cos.name/author/yixuanq/)
 7. [雪晴数据网 陈雁平](http://www.xueqing.tv/)
-8. [R语言极客 张丹](blog.fens.me/)
+8. [R语言极客 张丹](http://blog.fens.me/)
 9. [ParallelR 赵鹏](http://www.parallelr.com/)
 10. [芝加哥大学PhD 肖楠](http://nanx.me/)
 ...
